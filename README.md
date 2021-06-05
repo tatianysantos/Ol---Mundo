@@ -3,13 +3,13 @@
 
  repositorio criado durante uma aula no git
 
- teste Renan 3
+ treinando com git
 
-Teste 123
+erro no pull
 
 
 mais um teste de alteração!
 
 alteração por taty
-realizando teste
+sucesso no teste
 
